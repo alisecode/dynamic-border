@@ -11,6 +11,7 @@
 		31CFB6C32BA04A5500A775D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CFB6C22BA04A5500A775D6 /* ContentView.swift */; };
 		31CFB6C52BA04A5800A775D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31CFB6C42BA04A5800A775D6 /* Assets.xcassets */; };
 		31CFB6C82BA04A5800A775D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31CFB6C72BA04A5800A775D6 /* Preview Assets.xcassets */; };
+		31CFB6D12BA068AE00A775D6 /* Extension+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CFB6D02BA068AE00A775D6 /* Extension+Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		31CFB6C22BA04A5500A775D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31CFB6C42BA04A5800A775D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31CFB6C72BA04A5800A775D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31CFB6D02BA068AE00A775D6 /* Extension+Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+Color.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				31CFB6C02BA04A5500A775D6 /* GradientCardApp.swift */,
 				31CFB6C22BA04A5500A775D6 /* ContentView.swift */,
+				31CFB6D02BA068AE00A775D6 /* Extension+Color.swift */,
 				31CFB6C42BA04A5800A775D6 /* Assets.xcassets */,
 				31CFB6C62BA04A5800A775D6 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				31CFB6C32BA04A5500A775D6 /* ContentView.swift in Sources */,
 				31CFB6C12BA04A5500A775D6 /* GradientCardApp.swift in Sources */,
+				31CFB6D12BA068AE00A775D6 /* Extension+Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
